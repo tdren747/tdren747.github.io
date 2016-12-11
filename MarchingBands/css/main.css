@@ -15,7 +15,7 @@
   /* Background image should be     */
   /* 100px by 100px tile.           */
   header {
-    background: darkgray;
+    background: #8B0000;
     height: 100px;
     /* background-image: url("../images/name-of-your-file-here");
     background-repeat: repeat-x; */
@@ -37,7 +37,7 @@
   /* of the menu bar column below. */
   nav {
     padding-left: 15px;
-    background: #eee;
+    background: #FF8C00;
   }
 
   /* Change the background     */
@@ -45,7 +45,7 @@
   footer {
     clear: left;
     width: 100%;
-    background: #eee;
+    background: #8B0000;
     padding: 4px 0;
   }
 
@@ -61,6 +61,7 @@
   p {
     color: #000;
   }
+
 
   nav ul {
     list-style-type: none;
