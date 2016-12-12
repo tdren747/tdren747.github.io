@@ -1,5 +1,5 @@
-# 1-column-template
-Basic HTML/CSS template with header, full-width menu bar, single column of content, and a footer.
+# College Marching Bands
+A site dedicated to College Marching Bands of all varieties.
 
 ## Site Demo
 [http://github.tracigardner.com/1-column-template](http://github.tracigardner.com/1-column-template)
